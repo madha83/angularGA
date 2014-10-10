@@ -28,14 +28,14 @@
     "angular-route": "~1.2",
     "angular-ui-router": "~0.2"
   },
-  "homepage": "https://github.com/luisfarzati/angulartics",
+  "homepage": "https://github.com/madha83/angularGA",
   "_release": "0.16.5",
   "_resolution": {
     "type": "version",
     "tag": "0.16.5",
-    "commit": "ed87400913b66037bc72d27f2c392d77c6affcfd"
+    "commit": "d9175c35e2be736c56fb5afb28fed12571408b67"
   },
-  "_source": "https://github.com/luisfarzati/angulartics.git",
+  "_source": "https://github.com/madha83/angularGA.git",
   "_target": "~0.16.5",
-  "_originalSource": "angulartics"
+  "_originalSource": "angularGA"
 }
