@@ -1,7 +1,7 @@
 angularGA
 ===========
 
-Vendor-agnostic analytics for AngularJS applications. [luisfarzati.github.io/angulartics](http://luisfarzati.github.io/angulartics "Go to the website")
+Vendor-agnostic analytics for AngularJS applications.
 
 # Install
 
