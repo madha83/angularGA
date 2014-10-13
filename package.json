@@ -1,7 +1,7 @@
 {
-  "name": "angulartics",
+  "name": "angularGA",
   "description": "Vendor-agnostic web analytics for AngularJS applications",
-  "version": "0.16.5",
+  "version": "0.1.0",
   "filename": "./src/angulartics.min.js",
   "author": {
     "name": "Madhan Kumar Dhamodaran",
