@@ -7,7 +7,7 @@ Vendor-agnostic analytics for AngularJS applications.
 
 ## Manual
 
-Download complete package from http://github.com/luisfarzati/angulartics/archive/master.zip
+Download complete package from https://github.com/madha83/angularGA/archive/master.zip
 
 ## NuGet
 
@@ -22,10 +22,10 @@ Or, in a command line (with nuget.exe in your path):
 ## Bower
 
 To install all available modules:
-	bower install angulartics
+	bower install angular-g-a
 
 # Full path tracking (for pages without a router)
-Introduced in 0.15.19 - support websites that do not use Angular `routes` or `states` on every page and still want to track full paths.  The modifications lead to the following behavior:
+Introduced in 0.1.0 - support websites that do not use Angular `routes` or `states` on every page and still want to track full paths.  The modifications lead to the following behavior:
 
  - **Viewing page `http://host.com/routes#/route` will be tracked as `/routes#/route`.** The original version would only track the page as `/route`
  - **Viewing page `http://host.com/noroutes` will be tracked as `/noroutes`.**  This is useful for pages that do not contain Angular code besides initializing the base module.
@@ -109,7 +109,6 @@ Setup listeners in Google Tag Manager
 
 ## for other providers
 
-[Browse the website for detailed instructions.](http://luisfarzati.github.io/angulartics)
 
 ## Supported providers
 
@@ -198,15 +197,11 @@ Additional properties (for example, category as required by GA) may be specified
 		analytics-event="Download"
 		analytics-category="Content Actions">Download</a>
 
-# What else?
-
-See full docs and more samples at [http://luisfarzati.github.io/angulartics](http://luisfarzati.github.io/angulartics "http://luisfarzati.github.io/angulartics").
-
 # License
 
 Angulartics is freely distributable under the terms of the MIT license.
 
-Copyright (c) 2013 Luis Farzati
+Copyright (c) 2013 Madhan Kumar Dhamodaran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -214,4 +209,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/luisfarzati/angulartics/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
