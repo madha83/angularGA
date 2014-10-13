@@ -201,7 +201,7 @@ Additional properties (for example, category as required by GA) may be specified
 
 Angulartics is freely distributable under the terms of the MIT license.
 
-Copyright (c) 2013 Madhan Kumar Dhamodaran
+Copyright (c) 2014 Madhan Kumar Dhamodaran
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
