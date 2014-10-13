@@ -1,5 +1,5 @@
 {
-  "name": "angulartics",
+  "name": "angularGA",
   "version": "0.16.5",
   "main": [
     "src/angulartics.js",
@@ -29,13 +29,13 @@
     "angular-ui-router": "~0.2"
   },
   "homepage": "https://github.com/madha83/angularGA",
-  "_release": "0.16.5",
+  "_release": "0.1.0",
   "_resolution": {
     "type": "version",
-    "tag": "0.16.5",
+    "tag": "0.1.0",
     "commit": "d9175c35e2be736c56fb5afb28fed12571408b67"
   },
   "_source": "https://github.com/madha83/angularGA.git",
-  "_target": "~0.16.5",
+  "_target": "~0.1.0",
   "_originalSource": "angularGA"
 }
